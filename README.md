@@ -1,2 +1,2 @@
 # blog
-django練習
+#django練習
